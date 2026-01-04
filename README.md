@@ -1,4 +1,4 @@
-# Docker Compose Hands-On Demo 🚀
+# Docker Compose Hands-On Project 🚀
 
 This project demonstrates how to use **Docker Compose** and **Docker Volumes** to run a multi-container application in a real-world DevOps-style setup.
 
