@@ -1,6 +1,6 @@
 # Docker Compose Hands-On Project 🚀
 
-This project demonstrates how to use **Docker Compose** and **Docker Volumes** to run a multi-container application in a real-world DevOps-style setup.
+This project demonstrates how to use **Docker Compose** and **Docker Volumes** to run a multi-container application! in a real-world DevOps-style setup.
 
 The application consists of:
 - A **Node.js (Express)** backend
